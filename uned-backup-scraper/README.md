@@ -1,7 +1,9 @@
 # UNED Backup Scraper
 
 Aplicación local para Windows 10 que crea una copia de seguridad de los
-materiales que una sesión propia puede abrir en Campus UNED/Ágora. Lo he hecho porque no me atrae mucho como está hecha la web de la universidad y prefiero descargarlo y tenedo todo estructurado en local. Por ello hice un proyecto modular para extraer todos los contenidos de cada asignatura con poco más que tus credenciales y un par de clicks
+materiales que una sesión propia puede abrir en Campus UNED/Ágora.
+
+Lo he hecho porque no me atrae mucho como está hecha la web de la universidad (Cada profesor tiene su propio orden, estructura y te tienes que adaptar a cada uno), por eso prefiero descargarlo, tenerlo todo estructurado y normalizado en local. Por ello hice un proyecto modular para extraer todos los contenidos de cada asignatura con poco más que tus credenciales y un par de clicks.
 
 La versión 1.9.0 descarga archivos, recorre todas las asignaturas visibles y
 conserva como PDF el contenido que Moodle solo publica como página web:
