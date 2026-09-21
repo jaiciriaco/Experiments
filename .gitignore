@@ -1,0 +1,31 @@
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/.pytest_cache/
+**/.ruff_cache/
+**/*.egg-info/
+**/build/
+**/dist/
+
+# Secretos y configuración local
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+**/config.json
+
+# UNED Backup: sesión y datos privados/copyright
+**/.browser-profile/
+**/UNED_Backup/
+**/UNED_Backup_*.zip
+**/inspection*.json
+**/manifest*.json
+**/download_log*.txt
+**/*.part
+
+# Editores y sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
