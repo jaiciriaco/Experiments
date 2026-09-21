@@ -1,4 +1,4 @@
-# Experimentos
+# Experiments
 
 Repositorio público para pequeños proyectos, prototipos y pruebas técnicas de
 Jaime Ciriaco. Cada experimento vive en su propia carpeta y mantiene sus
@@ -21,8 +21,3 @@ dependencias, documentación y pruebas de forma independiente.
 
 El código de este repositorio se publica bajo la [licencia MIT](./LICENSE),
 salvo que una carpeta indique expresamente otra licencia.
-
-## Publicación
-
-Las instrucciones para publicar este repositorio con GitHub Desktop están en
-[`PUBLICAR_EN_GITHUB.md`](./PUBLICAR_EN_GITHUB.md).
