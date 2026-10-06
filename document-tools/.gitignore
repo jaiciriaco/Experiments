@@ -1,0 +1,10 @@
+output/
+*.png
+*.jpg
+*.pdf
+*.txt
+!requirements.txt
+.env
+*storage_state*
+*cookie*
+__pycache__/
